@@ -19,7 +19,7 @@ Hi,I'm Tondani, a finance professional and data enthusiast turning numbers into 
 Here, you will find my projects where finance meets analytics.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+## [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
       
 # 🔭 What I'm Currently Working On 
 
@@ -27,7 +27,7 @@ Here, you will find my projects where finance meets analytics.
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
 
 
-#🌱Currently Learning 
+##🌱Currently Learning 
 
 - Sql
 
@@ -46,5 +46,5 @@ Here, you will find my projects where finance meets analytics.
 
 
 
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/KPI%20Development-Beginner-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
