@@ -3,7 +3,7 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analysis+%7C;Turning+Data+into+visual+Insights+through+analytics;Transforming+data+into+dasboards+that+drive+decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analysis+%7C;Turning+Data+into+visual+Insights;Data+into+dasboards+that+drive+decisions" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -14,9 +14,9 @@
 </p>
 
 ## 🚀 About Me 
-Hi,I'm Tondani, a finance and accounting professional and data enthusiast turning numbers into insights by creating dashboards,analyses and reports that help make data meaningful and actionable.
+Hi,I'm Tondani, a finance professional and data enthusiast turning numbers into insights by creating dashboards,analyses and reports that help make data meaningful and actionable.
 
-Here, you will find my projrcts where a finance meets analytics.
+Here, you will find my projects where finance meets analytics.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
