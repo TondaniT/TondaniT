@@ -14,7 +14,7 @@
 </p>
 
 ## 🚀 About Me 
-Hi,I'm Tondani, a finance professional and data enthusiast turning numbers into insights by creating dashboards,analyses and reports that help make data meaningful and actionable.
+Hi,I'm Tondani, a finance professional and data enthusiast turning numbers into insights by creating dashboards and analytical reports that help make data meaningful and actionable.
 
 Here, you will find my projects where finance meets analytics.
 
